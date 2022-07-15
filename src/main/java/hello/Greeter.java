@@ -2,6 +2,6 @@ package hello;
 
 public class Greeter {
   public String sayHello() {
-    return "Hello world----- pavan is your Trainer ! This is for CICD demo ,Need Bye string to pass the test so Bye";
+    return "Hello world- This is Pavan Wankhade your Trainer !! Hi or Bye is the string needed here.Testing Pipeline";
   }
 }
